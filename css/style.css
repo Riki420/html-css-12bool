@@ -30,3 +30,40 @@ p{
     top: 50%;
 
 }
+
+
+@media screen and (max-width: 768px) {
+
+    .bg-md-blue{
+        background-color: royalblue;
+    }
+
+    .bg-md-white{
+        background-color: #fff;
+    }
+    .bg-md-black{
+        background-color: #000;
+        color: white;
+    }
+    
+}
+
+@media screen and (max-width: 576px) {
+
+    .bg-sm-blue{
+        background-color: royalblue;
+    }
+
+    .bg-sm-green{
+        background-color: green;
+    }
+
+    .bg-sm-yellow{
+        background-color: yellow;
+    }
+
+    .bg-sm-red{
+        background-color: red;
+    }
+    
+}
