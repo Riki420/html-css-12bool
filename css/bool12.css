@@ -5,4 +5,15 @@
     box-sizing: border-box;
 }
 
-/**/
+/*Classic Container*/
+.container{
+    width: 100%;
+    margin: 0 auto;
+    max-width: 1070px;
+}
+
+/*Fluid Container*/
+.container-fluid{
+    width: 100%;
+    max-width: 100%;
+}
