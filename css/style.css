@@ -32,6 +32,15 @@ p{
 }
 
 
+p::after{
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900; 
+    content: "\f108";
+    color: #fff;
+    margin-left:10px;    
+}
+
+
 @media screen and (max-width: 768px) {
 
     .bg-md-blue{
@@ -44,6 +53,14 @@ p{
     .bg-md-black{
         background-color: #000;
         color: white;
+    }
+
+    p::after{
+        font-family: "Font Awesome 5 Free";
+        font-weight: 900; 
+        content: "\f3fa";
+        color: #fff;
+        margin-left:10px;    
     }
     
 }
@@ -59,11 +76,19 @@ p{
     }
 
     .bg-sm-yellow{
-        background-color: yellow;
+        background-color: darkgoldenrod;
     }
 
     .bg-sm-red{
         background-color: red;
+    }
+
+    p::after{
+        font-family: "Font Awesome 5 Free";
+        font-weight: 900; 
+        content: "\f3cd";
+        color: #fff;
+        margin-left:10px;    
     }
     
 }
