@@ -99,3 +99,25 @@
     flex-basis: calc(100% / 12 * 1);
     max-width: calc(100% / 12 * 1);
 }
+
+/*More Utilities*/
+
+.start-xs{
+    justify-content: flex-start;
+}
+
+.center-xs{
+    justify-content: center;
+}
+
+.end-xs{
+    justify-content: end;
+}
+
+.around-xs{
+    justify-content: space-around;
+}
+
+.between-xs{
+    justify-content: between;
+}
