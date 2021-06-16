@@ -305,7 +305,7 @@
 
 @media screen and (max-width: 768px) {
 
-    /*Auto Column*/
+/*Auto Column*/
 .col{
     flex-grow: 1;
 }
