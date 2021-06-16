@@ -436,10 +436,10 @@
 }
 
 @media screen and (max-width: 576px) {
-    /*Auto Column*/
-.col{
-    /* flex-grow: 1; */
-}
+    /*Auto Column
+     .col{
+    /* flex-grow: 1;
+ } */ 
 
 
 
