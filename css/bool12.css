@@ -121,3 +121,10 @@
 .between-xs{
     justify-content: between;
 }
+
+/*Padding*/
+
+.p-10{
+    padding: 10px;
+}
+
