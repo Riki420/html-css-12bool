@@ -17,14 +17,14 @@
 [class*='col']{
     border: 1px solid black;
     min-height: 200px;
-    background-color: #aa616e;
+    background-color: #ffc0cb;
 }
 
 .bg-r{
-    background-color: #c25656;
+    background-color: #f07f80;
 }
 
 p{
     text-align: center;
-    line-height: 200px
+
 }
