@@ -8,7 +8,7 @@
 /*Container*/
 .container,
 .container-fluid{
-    border: 2px dashed #000;
+    border: 2px solid #000;
     min-height: 100px;
     margin: 0 auto;
 }
@@ -17,5 +17,5 @@
 [class*='col']{
     border: 1px solid black;
     min-height: 200px;
-    background-color: pink;
+    background-color: #aa616e;
 }
