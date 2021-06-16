@@ -12,3 +12,10 @@
     min-height: 100px;
     margin: 0 auto;
 }
+
+/*Col*/
+[class*='col']{
+    border: 1px solid black;
+    min-height: 200px;
+    background-color: pink;
+}
